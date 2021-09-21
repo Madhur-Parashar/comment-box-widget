@@ -1,0 +1,22 @@
+.comment {
+  display: flex;
+  padding-bottom: 8px;
+}
+.comment-description {
+  border-radius: 18px;
+  background: #f0f2f5;
+  border-color: #f0f2f5;
+  border-width: 0;
+  padding: 8px;
+  padding-left: 8px;
+}
+.comment-content {
+  padding-left: 8px;
+}
+.comment-actions {
+  display: flex;
+  justify-content: space-between;
+}
+.comment-actions div {
+  margin-left: 8px;
+}

@@ -1,0 +1,10 @@
+.comment-box-widget {
+  width: 768px;
+  border-right: 1px solid #eee;
+  padding: 0 16px;
+}
+.active-user-container {
+  margin: 24px;
+  display: flex;
+  justify-content: center;
+}
